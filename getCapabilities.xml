@@ -177,7 +177,7 @@
 				<Title>amerb</Title>
 				<Abstract>GH:amerb ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/javigonceb/Mappia_Example/releases/download/Map_Download/amerb.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/javigonceb/Mappia_Example/releases/download/Map_Download/amerb.zip˸notListing˸˸maxZoom˸6</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-75.07953764078466" miny="-54.892182863581276" maxx="-67.06272598849536" maxy="-18.347216502213556"></LatLonBoundingBox>
@@ -197,7 +197,7 @@
 				<Title>areas_marinas_protegidas</Title>
 				<Abstract>GH:areas_marinas_protegidas ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/javigonceb/Mappia_Example/releases/download/Map_Download/areas_marinas_protegidas.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/javigonceb/Mappia_Example/releases/download/Map_Download/areas_marinas_protegidas.zip˸notListing˸˸maxZoom˸6</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-127.94472905771362" miny="-60.02261820906581" maxx="-66.78710101412257" maxy="-19.00208306171194"></LatLonBoundingBox>
@@ -217,7 +217,7 @@
 				<Title>mapa</Title>
 				<Abstract>GH:mapa ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-180.0" miny="-85.0511287798066" maxx="179.99999999999997" maxy="85.0511287798066"></LatLonBoundingBox>
